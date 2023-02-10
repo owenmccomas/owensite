@@ -70,7 +70,7 @@ const meanNumber = () => {
   <p className="text-warning">I want to add more text terminal vibes</p>
   <p className="text-danger">To be honest, I like node/more programmatic stuff rather than react and the frond end stuff, don't get me wrong tho, I still like it</p>
   <p className="text-success">The rest will be lorem ipsum stuff</p>
-  <p className="text-info">Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+  <p className="text-info">Maecenas sed diam eget risus varius blandit sit amet non magna</p>
   </div>
 
 <div className="mainQuote">
