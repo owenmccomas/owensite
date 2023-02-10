@@ -1,0 +1,49 @@
+ #root {
+  max-width: 1280px;
+  margin: 0 auto;
+  /* text-align: center; */
+}
+
+.cards {
+  display: flex;
+  justify-content: center;
+}
+
+.cardPrim {
+  max-width: 25rem; 
+  max-height: auto; 
+  margin-top: 5rem; 
+}
+
+.cardSec {
+  max-width: 25rem; 
+  max-height: auto; 
+  margin-top: 4rem; 
+}
+
+.emphTextBox {
+  margin-left: 7.5rem;
+  margin-top: 4rem;
+}
+
+
+.mainQuote {
+  display: flex;
+  justify-content: center;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3rem;
+}
+.contactForm {
+  display: flex;
+  justify-content: center;
+  margin-top: 3rem;
+}
+
+.footQuote {
+  display: flex;
+  justify-content: center;
+  margin-left: 7.5rem;
+  margin-right: 7.5rem;
+  margin-top: 5rem;
+}
